@@ -1,5 +1,7 @@
 # CartApp
 _About this App_
+
+
 At the moment, there are not many online stores in our country, our application is an online store for your favorite drinks and snaсks.
 Our app has the most user-friendly design, which makes our app competitive, this app is just the beginning of a large online store, but it works great for attracting initial customers.
 
