@@ -6,9 +6,11 @@ At the moment, there are not many online stores in our country, our application 
 Our app has the most user-friendly design, which makes our app competitive, this app is just the beginning of a large online store, but it works great for attracting initial customers.
 
 About App
+
 •	My application contains main Menu, Cart part and storage that connected to online database Firebase.
 
 What contains this app? 
+
 •	List of products, Main menu, Cart and ability to delete or add any products.
 
 *Сode explaining*
