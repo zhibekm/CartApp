@@ -14,4 +14,4 @@ What contains this app?
 
 -We use Snapshot to make sure that the sources will be finalized within this version. Next, we write Snackbar, which is provides a button as an option to perform an action. Adapters make it easy to link data to the control
 
-1)(https://github.com/zhibekm/CartApp/blob/main/first.png)
+1)![](https://github.com/zhibekm/CartApp/blob/main/first.png)
